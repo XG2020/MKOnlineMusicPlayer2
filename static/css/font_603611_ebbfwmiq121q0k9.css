@@ -1,0 +1,51 @@
+﻿
+@font-face {font-family: "iconfont";
+  src: url('../fonts/font_603611_ebbfwmiq121q0k9.eot'); /* IE9*/
+  src: url('../fonts/font_603611_ebbfwmiq121q0k9.eot') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/bf77e000df894333ad4dafe0d59a2a91.woff') format('woff'),
+  url('../fonts/font_603611_ebbfwmiq121q0k9.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../fonts/font_603611_ebbfwmiq121q0k9.svg') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cart:before { content: "\e686"; }
+
+.icon-chartbar:before { content: "\e692"; }
+
+.icon-friend:before { content: "\e695"; }
+
+.icon-edit:before { content: "\e696"; }
+
+.icon-link:before { content: "\e697"; }
+
+.icon-logout:before { content: "\e698"; }
+
+.icon-chartpie:before { content: "\e69b"; }
+
+.icon-map:before { content: "\e69e"; }
+
+.icon-menu:before { content: "\e69f"; }
+
+.icon-music:before { content: "\e6a0"; }
+
+.icon-profile:before { content: "\e6ad"; }
+
+.icon-rss:before { content: "\e6af"; }
+
+.icon-share:before { content: "\e6b0"; }
+
+.icon-search2:before { content: "\e6b1"; }
+
+.icon-signup:before { content: "\e6b2"; }
+
+.icon-tag:before { content: "\e6b3"; }
+
+.icon-user:before { content: "\e6b7"; }
+
