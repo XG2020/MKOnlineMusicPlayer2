@@ -18,16 +18,17 @@
 
 于是我对项目进行了小部分修改优化，演示效果可以看我博客的音乐界面，效果图如下：
 
-###播放列表
+##播放列表
 ![41777-uvic6uiki8.png](https://www.xggm.top/usr/uploads/2022/04/265084293.png)
 
-###歌单列表
+##歌单列表
 ![60689-e1uh2qjgr1j.png](https://www.xggm.top/usr/uploads/2022/04/3316317218.png)
 
-###播放效果
+##播放效果
 ![36494-ydcc5jsdg68.png](https://www.xggm.top/usr/uploads/2022/04/2849229124.png)
 
-###手机端播放列表
+##手机端播放列表
 ![32527-npwffwzkxoc.png](https://www.xggm.top/usr/uploads/2022/04/679544348.png)
-###搜索界面
+
+##搜索界面
 ![49655-7y9ku2haff3.png](https://www.xggm.top/usr/uploads/2022/04/352921465.png)
