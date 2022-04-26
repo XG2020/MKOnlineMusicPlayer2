@@ -27,7 +27,7 @@
 播放效果
 ![36494-ydcc5jsdg68.png](https://www.xggm.top/usr/uploads/2022/04/2849229124.png)
 
-手机端播放列表
+手机端
 ![32527-npwffwzkxoc.png](https://www.xggm.top/usr/uploads/2022/04/679544348.png)
 
 搜索界面
